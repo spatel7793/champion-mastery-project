@@ -1,0 +1,23 @@
+{
+  "name": "champion-mastery-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spatel7793/champion-mastery-project.git"
+  },
+  "keywords": [],
+  "author": "Sameer",
+  "license": "PennLPS",
+  "bugs": {
+    "url": "https://github.com/spatel7793/champion-mastery-project/issues"
+  },
+  "homepage": "https://github.com/spatel7793/champion-mastery-project#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
